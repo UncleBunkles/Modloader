@@ -1,0 +1,50 @@
+{
+    "Core": 20739,
+    "Game": 24327,
+
+    "LevelUpFactory": 60099,
+    "WeaponFactory": 40944,
+    "BlendModes": 99076,
+    "PlayerOptions": 96405,
+    "PlayerClass": 34463,
+    "Plugins": 93204,
+    "NineSliceConfig": 52398,
+    "ScrollableContainer": 92725,
+    "Utils": 94554,
+    "SceneManager": 98145,
+    "ArcanaClass": 12469,
+
+    "BaseBullet": 58522,
+    "BaseWeapon": 41293,
+    "BasePickup": 91861,
+
+    "PickupPool": 55382,
+    "WeaponPool": 19101,
+
+    "CharacterConfigs": 5597,
+    "LimitBreakConfigs": 30814,
+    "WeaponConfigs": 12551,
+    "PickupConfigs": 19735,
+    "BgmConfigs": 61384,
+    "PowerUpConfigs": 46753,
+
+    "ItemType": 50222,
+    "SfxType": 8151,
+    "BgmType": 84213,
+    "CharacterType": 57276,
+    "SceneType": 92596,
+
+    "StageX": 46218,
+    "Forest": 31051,
+    "Library": 77667,
+    "Warehouse": 78023,
+    "Bonezone": 49495,
+    "Molise": 19070,
+    "Tower": 6642,
+    "Sinking": 82409,
+    "GreenAcres": 17084,
+
+    "PauseScene": 75374,
+    "PreloadScene": 87451,
+    "MainScene": 6695
+}
